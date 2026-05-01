@@ -29,6 +29,8 @@ A Flutter mobile application for tracking running activities, integrated with Su
 <img width="250" alt="localhost_52077_(iPhone 12 Pro) (2)" src="https://github.com/user-attachments/assets/37c96267-9e55-4a16-b505-3582bea129ec" />
 <img width="250" alt="localhost_52077_(iPhone 12 Pro) (3)" src="https://github.com/user-attachments/assets/75ce188e-c932-4929-83e2-a7212b2db82f" />
 </div>
+<img width="1008" height="427" alt="image" src="https://github.com/user-attachments/assets/4f54af8f-eba0-43c4-a6df-3719516886a3" />
+
 
 ## 🚀 How to Run
 git clone https://github.com/your-username/flutter_run_tracker_app.git
